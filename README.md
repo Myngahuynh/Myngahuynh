@@ -1,6 +1,6 @@
 - 👋 Hi, I’m My Nga Huynh. This year, I'm 21 years old
 - 👀 I’m interested singing and playing guitar. Besides that, I also like studying math. 
-- 🌱 I’m currently learning at University of Economics & Law - VNU HCM majoring Fin - tech. At the same time, Im studying at VTC Academy majoring Software Engineer. 
+- 🌱 I’m currently learning at University of Economics & Law - VNU HCM majoring Fin - tech. At the same time, Im studying at NIC majoring Software Engineer. 
 - 📫 Contact me on email: ngahm277@gmail.com
 
 <!---
