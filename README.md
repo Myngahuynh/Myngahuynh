@@ -1,5 +1,4 @@
-- 👋 Hi, I’m My Nga Huynh. This year, I'm 21 years old
-- 👀 I’m interested in singing and playing guitar. Besides that, I also like studying math. 
+- 👋 Hi, I’m My Nga Huynh. This year, I'm 22 years old
 - 🌱 I’m currently learning at the University of Economics & Law - VNU HCM majoring in Fintech. At the same time, Im studying at NIC majoring in Software Engineering. 
 - 📫 Contact me by email: ngahm277@gmail.com
 
